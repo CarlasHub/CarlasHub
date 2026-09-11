@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Carla Goncalves — Web Developer and WAS" width="100%">
+  <img src="./assets/profile-header.svg" alt="Carla Goncalves — Web Developer, Accessibility Testing, and QA Automation" width="100%">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="https://github.com/CarlasHub?tab=repositories">All repositories</a>
 </p>
 
-**Web Developer and WAS.**
+**Carla Goncalves — Web Developer · Accessibility Testing · QA Automation.**
 
 ## Some recent work
 

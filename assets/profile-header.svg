@@ -18,7 +18,7 @@
     }
   </style>
 
-  <rect x="1" y="1" width="1198" height="318" rx="26" fill="#111923" stroke="#394559" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="318" rx="26" fill="#000000" stroke="#394559" stroke-width="2"/>
 
   <g transform="translate(160 49.5)">
     <g class="mark">

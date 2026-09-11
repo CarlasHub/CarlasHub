@@ -23,32 +23,4 @@
 | **[AI-Agent SDLC Boilerplate](https://github.com/CarlasHub/ai-agent-sdlc-boilerplate)** | A governance-first starter covering scope, guardrails, approval gates, evaluations, audit evidence, and local ZIP export. | [Live builder](https://carlashub.github.io/ai-agent-sdlc-boilerplate/) · [Case study](https://carlashub.com/ai-agent-sdlc-boilerplate-governance/?utm_source=github&utm_medium=profile&utm_campaign=github_profile) |
 | **[Cat Crawler](https://github.com/CarlasHub/site-crawler)** | A React and Node.js crawler for discovering pages, validating navigation, and producing actionable site-audit reports. | [Product site](https://carlashub.github.io/site-crawler/) · [Case study](https://carlashub.com/cat-crawler-why-i-built-it-what-i-learned/?utm_source=github&utm_medium=profile&utm_campaign=github_profile) |
 
-## How I work
-
-- **Evidence before claims:** reproducible demos, audit artefacts, traceable decisions, and honest product boundaries.
-- **Accessibility from the start:** WCAG-aligned design, keyboard and screen-reader thinking, and human review alongside automation.
-- **Governance that ships:** permissions, approval gates, evaluation rubrics, failure handling, and documentation built into the workflow.
-
-## Technical focus
-
-| Area | Tools and methods |
-| --- | --- |
-| Accessibility and quality | WCAG 2.2, axe-core, Playwright, manual test design, regression evidence |
-| Product engineering | JavaScript, React, Vite, Node.js, Express, REST APIs, responsive interfaces |
-| Delivery and automation | GitHub Actions, Cloud Run, CI/CD, structured reports, release verification |
-| Governed AI | Agent orchestration, MCP, evaluations, human approval gates, audit trails, prompt-injection boundaries |
-
-## Selected writing
-
-- [Making A11Y Cat trustworthy](https://carlashub.com/making-a11y-cat-trustworthy/?utm_source=github&utm_medium=profile&utm_campaign=github_profile)
-- [Prompt injection is not just an AI problem—it is an authority problem](https://carlashub.com/prompt-injection-ai-authority-problem/?utm_source=github&utm_medium=profile&utm_campaign=github_profile)
-- [GitHub Actions agentic development guide](https://carlashub.com/github-actions-professional-agentic-development/?utm_source=github&utm_medium=profile&utm_campaign=github_profile)
-
-<p align="center">
-  <strong>Interested in accessible products, quality engineering, or responsible agent workflows?</strong><br>
-  <a href="https://www.linkedin.com/in/carla-goncalves-9a01a5164/">Connect on LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://carlashub.com/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=github_profile">Visit CarlasHub</a>
-</p>
-
 <!-- Profile links reviewed 2026-09-11. -->

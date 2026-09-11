@@ -10,7 +10,7 @@
   <a href="https://github.com/CarlasHub?tab=repositories">All repositories</a>
 </p>
 
-**Carla Goncalves — Web Developer · Accessibility & QA Testing · Automation Solutions**
+**Carla Goncalves — Web Developer · Accessibility & QA Testing · Automation Tools**
 
 ## Some recent work
 

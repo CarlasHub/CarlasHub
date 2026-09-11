@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Carla Goncalves — Web Developer, Accessibility Testing, and QA Automation" width="100%">
+  <img src="./assets/profile-header.svg" alt="Carla's Hub" width="100%">
 </p>
 
 <p align="center">

@@ -10,15 +10,6 @@
   <a href="https://github.com/CarlasHub?tab=repositories">All repositories</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WCAG_2.2-005A9C?style=flat-square" alt="WCAG 2.2">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Governed_AI-6D5BD0?style=flat-square" alt="Governed AI">
-</p>
-
 I am a quality and product-minded builder focused on **accessibility**, **reliable automation**, and **AI systems with evidence and guardrails**. I turn messy testing and delivery problems into practical open-source tools, clear workflows, and review-ready proof.
 
 ## Flagship work

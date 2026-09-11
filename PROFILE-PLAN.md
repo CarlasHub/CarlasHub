@@ -4,6 +4,8 @@ The profile now has a clear positioning statement, six proof-oriented flagship p
 
 ## Now: make the profile coherent
 
+- Keep the visual system light and minimal: the real CarlasHub cat wordmark, white space, dark navy type, and the site's `#5f90ff` blue accent.
+- Use motion only as a quiet signal of craft: slow movement, no flashing, and a reduced-motion fallback.
 - Pin the same six flagship repositories shown in the profile README.
 - Give every flagship repository a consistent one-line description, HTTPS homepage, focused topics, and social-preview image.
 - Add a short “Part of the CarlasHub portfolio” link from each flagship README back to `https://carlashub.com/`.

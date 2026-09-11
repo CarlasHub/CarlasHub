@@ -1,0 +1,63 @@
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Carla Goncalves — accessible quality engineering, governed AI, and developer tools" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://carlashub.com/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=github_profile">Portfolio &amp; case studies</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/carla-goncalves-9a01a5164/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/CarlasHub?tab=repositories">All repositories</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WCAG_2.2-005A9C?style=flat-square" alt="WCAG 2.2">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Governed_AI-6D5BD0?style=flat-square" alt="Governed AI">
+</p>
+
+I am a quality and product-minded builder focused on **accessibility**, **reliable automation**, and **AI systems with evidence and guardrails**. I turn messy testing and delivery problems into practical open-source tools, clear workflows, and review-ready proof.
+
+## Flagship work
+
+| Project | What it proves | Explore |
+| --- | --- | --- |
+| **[Accessibility Audit Plugin](https://github.com/CarlasHub/accessibility-audit-plugin)** | A free WCAG 2.2 audit workflow for GitHub Actions and AI coding tools, producing HTML, Excel, JSON, and ZIP evidence. | [Live builder](https://carlashub.github.io/accessibility-audit-plugin/) · [Demo & proof](https://github.com/CarlasHub/accessibility-audit-plugin#demo-and-proof) |
+| **[A11Y Test Cases](https://github.com/CarlasHub/a11y-test-cases)** | An open manual-testing manager covering all 55 active WCAG 2.2 Level A and AA success criteria through 165 review steps. | [Live app](https://carlashub.github.io/a11y-test-cases/) · [Case study](https://carlashub.com/a-new-accessibility-test-case-manager/?utm_source=github&utm_medium=profile&utm_campaign=github_profile) |
+| **[Agents Workflow Blueprint](https://github.com/CarlasHub/Agents-Workflow-Blueprint)** | Reusable prompts, skills, contracts, and governance patterns for coordinated agent work with explicit boundaries. | [Explore blueprint](https://carlashub.github.io/Agents-Workflow-Blueprint/) · [Case study](https://carlashub.com/how-to-build-a-website-with-ai-agents-without-letting-them-run-wild/?utm_source=github&utm_medium=profile&utm_campaign=github_profile) |
+| **[AI-Agent SDLC Boilerplate](https://github.com/CarlasHub/ai-agent-sdlc-boilerplate)** | A governance-first starter covering scope, guardrails, approval gates, evaluations, audit evidence, and local ZIP export. | [Live builder](https://carlashub.github.io/ai-agent-sdlc-boilerplate/) · [Case study](https://carlashub.com/ai-agent-sdlc-boilerplate-governance/?utm_source=github&utm_medium=profile&utm_campaign=github_profile) |
+| **[Cat Crawler](https://github.com/CarlasHub/site-crawler)** | A React and Node.js crawler for discovering pages, validating navigation, and producing actionable site-audit reports. | [Product site](https://carlashub.github.io/site-crawler/) · [Case study](https://carlashub.com/cat-crawler-why-i-built-it-what-i-learned/?utm_source=github&utm_medium=profile&utm_campaign=github_profile) |
+| **[Smart Life Atlas](https://github.com/CarlasHub/smart-life-atlas)** | A trust-aware ambient-life prototype combining React, Gemini, Google Cloud Agent Builder, and MongoDB MCP. | [Live demo](https://smart-life-atlas.vercel.app/) · [Case study](https://carlashub.com/i-built-atlas-ambient-life-intelligence/?utm_source=github&utm_medium=profile&utm_campaign=github_profile) |
+
+## How I work
+
+- **Evidence before claims:** reproducible demos, audit artefacts, traceable decisions, and honest product boundaries.
+- **Accessibility from the start:** WCAG-aligned design, keyboard and screen-reader thinking, and human review alongside automation.
+- **Governance that ships:** permissions, approval gates, evaluation rubrics, failure handling, and documentation built into the workflow.
+
+## Technical focus
+
+| Area | Tools and methods |
+| --- | --- |
+| Accessibility and quality | WCAG 2.2, axe-core, Playwright, manual test design, regression evidence |
+| Product engineering | JavaScript, React, Vite, Node.js, Express, REST APIs, responsive interfaces |
+| Delivery and automation | GitHub Actions, Cloud Run, CI/CD, structured reports, release verification |
+| Governed AI | Agent orchestration, MCP, evaluations, human approval gates, audit trails, prompt-injection boundaries |
+
+## Selected writing
+
+- [Making A11Y Cat trustworthy](https://carlashub.com/making-a11y-cat-trustworthy/?utm_source=github&utm_medium=profile&utm_campaign=github_profile)
+- [Prompt injection is not just an AI problem—it is an authority problem](https://carlashub.com/prompt-injection-ai-authority-problem/?utm_source=github&utm_medium=profile&utm_campaign=github_profile)
+- [GitHub Actions agentic development guide](https://carlashub.com/github-actions-professional-agentic-development/?utm_source=github&utm_medium=profile&utm_campaign=github_profile)
+
+<p align="center">
+  <strong>Interested in accessible products, quality engineering, or responsible agent workflows?</strong><br>
+  <a href="https://www.linkedin.com/in/carla-goncalves-9a01a5164/">Connect on LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://carlashub.com/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=github_profile">Visit CarlasHub</a>
+</p>
+
+<!-- Profile links reviewed 2026-09-11. -->

@@ -69,11 +69,11 @@
       <text x="26" y="13" fill="#5582d2" font-size="14" font-weight="700" letter-spacing="2.2">OPEN-SOURCE PORTFOLIO</text>
     </g>
 
-    <text x="66" y="137" fill="#0d1117" font-size="51" font-weight="760" letter-spacing="-1.7">Accessible software.</text>
+    <text x="66" y="137" fill="#0d1117" font-size="51" font-weight="760" letter-spacing="-1.7">Web Developer</text>
     <text x="66" y="195" fill="#0d1117" font-size="51" font-weight="760" letter-spacing="-1.7">
-      Built to earn <tspan fill="#5f90ff">trust.</tspan>
+      and <tspan fill="#5f90ff">WAS.</tspan>
     </text>
-    <text x="68" y="242" fill="#65748b" font-size="20" font-weight="500">Quality engineering · reliable automation · governed AI</text>
+    <text x="68" y="242" fill="#65748b" font-size="20" font-weight="500">Accessibility · web development · testing</text>
 
     <g transform="translate(66 280)" font-size="14" font-weight="650">
       <rect width="150" height="38" rx="19" fill="#edf3ff"/>
